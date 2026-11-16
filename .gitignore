@@ -31,4 +31,4 @@ node_modules/
 *.bak
 *.orig
 *.rej
-*.sublime-workspace
+*.sublime-workspace.DS_Store
